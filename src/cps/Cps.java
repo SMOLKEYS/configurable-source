@@ -17,7 +17,7 @@ public class Cps extends Mod{
     
     public final ContentList[] cpsContent = {
         new CpsBlocks()
-    }
+    };
     
     @Override
     public void loadContent(){
