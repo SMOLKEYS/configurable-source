@@ -1,4 +1,4 @@
-package mindustry.world.blocks.sandbox;
+package cps.world.blocks.sandbox;
 
 import arc.scene.ui.*;
 import arc.scene.ui.layout.*;

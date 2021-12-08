@@ -30,6 +30,7 @@ import mindustry.world.blocks.units.*;
 import mindustry.world.consumers.*;
 import mindustry.world.draw.*;
 import mindustry.world.meta.*;
+import cps.world.blocks.sandbox.*;
 
 
 public class CpsBlocks implements ContentList{
