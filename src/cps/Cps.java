@@ -10,6 +10,7 @@ import mindustry.gen.*;
 import mindustry.mod.*;
 import mindustry.mod.Mods.*;
 import mindustry.ui.dialogs.*;
+import cps.content.*;
 
 public class Cps extends Mod{
 

@@ -32,6 +32,8 @@ import mindustry.world.draw.*;
 import mindustry.world.meta.*;
 import cps.world.blocks.sandbox.*;
 
+import static mindustry.type.ItemStack.*;
+
 
 public class CpsBlocks implements ContentList{
     public static Block powerSourceConfigurable;
